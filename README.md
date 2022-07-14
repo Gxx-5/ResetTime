@@ -1,0 +1,2 @@
+# ResetTime
+用于Linux系统切换到Windows时自动修正系统时间
